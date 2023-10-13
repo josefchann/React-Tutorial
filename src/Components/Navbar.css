@@ -1,0 +1,21 @@
+#icon {
+    width: 100px;
+    height: auto;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: rows;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #21222a;
+    padding: 2rem;
+}
+
+.logo {
+    display: flex;
+}
+
+#logo-name {
+    padding-left: 15px;
+}

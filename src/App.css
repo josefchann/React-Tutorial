@@ -1,0 +1,7 @@
+.container {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    min-height: 100vh;
+}
